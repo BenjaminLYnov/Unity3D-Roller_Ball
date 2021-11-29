@@ -3750,7 +3750,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "F\xE9licitation :\nVous avez gagn\xE9 !\nVous m\xE9rit\xE9 un Oscar !!!!"
+  m_Text: "F\xE9licitation :\nVous avez gagn\xE9 !\nVous m\xE9ritez un Oscar !!!!"
 --- !u!222 &2054982727
 CanvasRenderer:
   m_ObjectHideFlags: 0

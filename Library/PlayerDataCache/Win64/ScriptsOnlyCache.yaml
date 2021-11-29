@@ -68,9 +68,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2650}
     - Class: 114
-      Script: {instanceID: 16270}
+      Script: {instanceID: 2956}
     - Class: 114
-      Script: {instanceID: 22524}
+      Script: {instanceID: 4204}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -330,6 +330,12 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   - hash:
       serializedVersion: 2
+      Hash: 62df7ab547af7d2ad7b3de4649484bbe
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SpawnBall
+  - hash:
+      serializedVersion: 2
       Hash: 3164bc883ff663a5cdb32d1ef7e7c0c5
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -514,12 +520,6 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: RotateMap
-  - hash:
-      serializedVersion: 2
-      Hash: 62df7ab547af7d2ad7b3de4649484bbe
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: SpawnBall
   platform: 19
   scenePathNames:
   - Assets/Plateau.unity
