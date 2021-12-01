@@ -1,6 +1,7 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
+    - BeginConfig
     - RotateMap
     - SpawnBall
     Unity.CollabProxy.Editor.dll:
@@ -71,6 +72,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 2956}
     - Class: 114
       Script: {instanceID: 4204}
+    - Class: 114
+      Script: {instanceID: 16376}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -516,10 +519,16 @@ ScriptsOnlyBuild:
     className: TouchInputModule
   - hash:
       serializedVersion: 2
-      Hash: ddda5b6722fe54bdb056b1ac517a3d6b
+      Hash: cdfd6bb6a8104788cab7e75015667f08
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: RotateMap
+  - hash:
+      serializedVersion: 2
+      Hash: 81fe9283bb7e2fa962843f23e09ff578
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BeginConfig
   platform: 19
   scenePathNames:
   - Assets/Plateau.unity

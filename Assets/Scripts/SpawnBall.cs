@@ -9,7 +9,7 @@ public class SpawnBall : MonoBehaviour
     {
         if (other.CompareTag("DeadSpawn"))
             transform.position = spawnBegin.transform.position;
-        else if (other.CompareTag("EndSpawn"))  
+        else if (other.CompareTag("EndSpawn"))
             textWin.SetActive(true);
 
     }
